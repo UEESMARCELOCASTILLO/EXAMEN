@@ -1,0 +1,10 @@
+# Python / Colab
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Datos y resultados (permitimos un CSV de ejemplo)
+data/*
+!data/synthetic_data.csv
+results/
